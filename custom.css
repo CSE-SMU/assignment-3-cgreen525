@@ -1,0 +1,27 @@
+.banner {
+    background:url('http://www.freelargeimages.com/wp-content/uploads/2014/12/Landscape_01.jpg');
+    width:100%;
+    min-height: 25rem;
+}
+
+#call-to-action {
+    height:20rem;
+    width:25rem;
+    border-radius: 0.5rem;
+}
+
+#contact-form {
+  border-radius: 0.5rem;
+}
+
+#action-button {
+  left:10rem;
+}
+
+#logo {
+  width:5rem;
+  height:2.5rem;
+  border: grey solid;
+  border-width: 0.001rem;
+  border-radius: 0.25rem;
+}
